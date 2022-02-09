@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marriam
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS Frameworks (MEAN stack)
+- 🌱 I’m currently learning JS Frameworks (MERN stack)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through linkedIn
 
